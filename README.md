@@ -7,7 +7,7 @@
     &nbsp;·&nbsp;
     <a>Zhengxian Wu</a>
     &nbsp;·&nbsp;
-    <a href="https://ygling2008.github.io/">Yonggen Ling</a> ✉
+    <a href="https://ygling2008.github.io/">Yonggen Ling</a>
     &nbsp;·&nbsp;
     <a>Yuxiao Yang</a>
     &nbsp;·&nbsp;
